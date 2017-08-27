@@ -1,7 +1,16 @@
 # README
 
-This is a small tutorial to set up a jupyter notebook for data science and deep learning usign aws cloud services.
+This are a set of materials put together between the contributors to give a gentle introduction to deep learning and neural networks in the s2ds pivigo's program at Westminster University.
 
-Go to the [notebook](setupjupyteraws.ipynb) and follow the instruccions!
+1. Introduction to neural networks - Jan Sauer
+2. Setting up a cloud environment for deep learning - Juan Huguet
+3. Image classification: Shallow learning with sklearn vs. deep learning with tensorflow - A. Campello
 
-Enjoy!
+Go to the notebooks and enjoy!
+
+A. Campello, J. Huguet, J. Sauer and B. Wolter
+
+**List of useful resources to get started**
+ 1. [Neural networks and deep learning - Michael Nielsen](https://neuralnetworksanddeeplearning.com)
+ 2. [Machine learning mastery - Jason Brownlee](https://machinelearningmastery.com/?s=deep+learning&submit=Search)
+ 3. [Keras docs](https://keras.io/)
