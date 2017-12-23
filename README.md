@@ -8,7 +8,7 @@ This are a set of materials put together between the contributors to give a gent
 
 Go to the notebooks and enjoy!
 
-A. Campello, J. Huguet, J. Sauer and B. Wolter
+A. Campello, J. Huguet-Garcia, J. Sauer and B. Wolter
 
 **List of useful resources to get started**
  1. [Neural networks and deep learning - Michael Nielsen](https://neuralnetworksanddeeplearning.com)
